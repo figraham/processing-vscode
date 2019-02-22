@@ -7,7 +7,7 @@ If you're having the same problem feel free to use. To install,
 2. run `npm i`
 3. run `npm i -g vsce`
 4. run `vsce`
-5. Bring up command pallet in vs code (cnrl + shift + P) and run `Extensions: Install from VSIX...` then navigate to cloned repo and .vsix should be there.
+5. Bring up command palette in vs code (ctrl + shift + P) and run `Extensions: Install from VSIX...` then navigate to cloned repo and .vsix should be there.
 
 # Processing for Visual Studio Code
 
